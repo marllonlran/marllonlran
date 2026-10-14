@@ -17,8 +17,8 @@ Learning to translate business rules into well-structured applications, APIs, an
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/marllonlrn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Marllon on LinkedIn" /></a>
-<a href="https://github.com/marllonlrn?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+<a href="https://www.linkedin.com/in/marllonlrnn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Marllon on LinkedIn" /></a>
+<a href="https://github.com/marllonlrnn?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 
 </div>
 
@@ -67,7 +67,7 @@ As projects become ready to showcase, I will add their repositories and key take
 
 I welcome opportunities to exchange knowledge about **Python, Django, and backend development**, learn from the community, and follow projects that solve real-world problems.
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/marllonlrnr/)** · **[Explore my repositories](https://github.com/marllonlrn?tab=repositories)**
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/marllonlrnn/)** · **[Explore my repositories](https://github.com/marllonlrnn?tab=repositories)**
 
 ---
 
