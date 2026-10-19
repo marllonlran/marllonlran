@@ -2,75 +2,75 @@
 
 # Marllon Lorran
 
-### Aspiring Backend Developer
+### Desenvolvedor Backend em Formação
 
-**Software Engineering Student at UNIPÊ · Focused on Python and Django**
+**Estudante de Engenharia de Software no UNIPÊ · Foco em Python e Django**
 
-Learning to translate business rules into well-structured applications, APIs, and data-driven solutions.
+Desenvolvendo competências para transformar regras de negócio em aplicações bem estruturadas, APIs e soluções orientadas a dados.
 
 <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/APIs_REST-0F172A?style=for-the-badge" alt="APIs REST" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Marllon on LinkedIn" /></a>
-<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Conecte-se com Marllon no LinkedIn" /></a>
+<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Explore meus repositórios" /></a>
 
 </div>
 
 ---
 
-## About Me
+## Sobre mim
 
-I am **Marllon Lorran**, a **Software Engineering student at UNIPÊ**, focusing my studies on **backend development with Python and Django**.
+Sou **Marllon Lorran**, **estudante de Engenharia de Software no UNIPÊ**, com foco em **desenvolvimento backend com Python e Django**.
 
-I am interested in understanding what happens behind the scenes of an application: business rules, communication between services, data organization, and code quality. I aim to build a solid foundation through continuous learning and hands-on projects.
+Tenho interesse em compreender os fundamentos de uma aplicação: regras de negócio, comunicação entre serviços, organização de dados e qualidade de código. Busco construir uma base técnica sólida por meio do aprendizado contínuo e de projetos práticos.
 
-- **Current focus:** Python fundamentals and web development with Django.
-- **Next steps:** REST APIs with Django REST Framework and data persistence with SQL and PostgreSQL.
-- **Development workflow:** Git, GitHub, and Linux.
-- **Goal:** grow as a backend developer and build a portfolio that demonstrates my learning progress.
+- **Foco atual:** fundamentos de Python e desenvolvimento web com Django.
+- **Próximos passos:** desenvolvimento de APIs REST com Django REST Framework e persistência de dados com SQL e PostgreSQL.
+- **Fluxo de desenvolvimento:** Git, GitHub e Linux.
+- **Objetivo:** evoluir como desenvolvedor backend e construir um portfólio que demonstre meu progresso técnico.
 
-## Technologies I Am Learning
+## Tecnologias em estudo
 
-The technologies below represent my **current learning and development focus** as I continue to build my skills.
+As tecnologias a seguir representam meu **foco atual de estudo e desenvolvimento**, conforme avanço na construção das minhas competências técnicas.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,docker,git,github,linux&theme=dark" alt="Learning path and tools: Python, Django, PostgreSQL, Docker, Git, GitHub, and Linux" />
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,docker,git,github,linux&theme=dark" alt="Tecnologias e ferramentas em estudo: Python, Django, PostgreSQL, Docker, Git, GitHub e Linux" />
 </div>
 
 <br>
 
-| Area | Learning Focus |
+| Área | Foco de estudo |
 | :--- | :--- |
-| **Language** | Python · programming fundamentals · object-oriented programming |
-| **Web Development** | Django · HTTP · Django REST Framework · REST APIs |
-| **Databases** | SQL · PostgreSQL · data modeling · Django ORM |
-| **Quality** | Testing · data validation · code organization |
-| **Tools and Environment** | Git · GitHub · Linux · Docker |
+| **Linguagem** | Python · fundamentos de programação · programação orientada a objetos |
+| **Desenvolvimento web** | Django · HTTP · Django REST Framework · APIs REST |
+| **Bancos de dados** | SQL · PostgreSQL · modelagem de dados · ORM do Django |
+| **Qualidade de software** | Testes · validação de dados · organização de código |
+| **Ferramentas e ambiente** | Git · GitHub · Linux · Docker |
 
-## What I Am Building
+## Projetos em desenvolvimento
 
-My portfolio is growing. I am planning upcoming projects that apply **Python and Django** to practical problems, with an emphasis on:
+Meu portfólio está em construção. Estou planejando projetos que apliquem **Python e Django** à resolução de problemas práticos, com ênfase em:
 
-- APIs with clear business rules and data validation.
-- Databases with well-defined relationships and queries.
-- Organized code, meaningful tests, and documentation explaining how to run each project.
+- APIs com regras de negócio bem definidas e validação de dados.
+- Bancos de dados com relacionamentos e consultas bem estruturados.
+- Código organizado, testes relevantes e documentação com instruções de execução de cada projeto.
 
-As projects become ready to showcase, I will add their repositories and key takeaways here.
+À medida que os projetos estiverem prontos para apresentação, adicionarei seus repositórios e os principais aprendizados nesta seção.
 
-## Let’s Connect
+## Contato
 
-I welcome opportunities to exchange knowledge about **Python, Django, and backend development**, learn from the community, and follow projects that solve real-world problems.
+Tenho interesse em trocar conhecimentos sobre **Python, Django e desenvolvimento backend**, aprender com a comunidade e acompanhar projetos que resolvam problemas reais.
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/marllonlran/)** · **[Explore my repositories](https://github.com/marllonlran?tab=repositories)**
+**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/marllonlran/)** · **[Explore meus repositórios](https://github.com/marllonlran?tab=repositories)**
 
 ---
 
 <div align="center">
-  <sub>Solid Foundations · Hands-On Projects · Continuous Learning</sub>
+  <sub>Fundamentos sólidos · Projetos práticos · Aprendizado contínuo</sub>
 </div>
