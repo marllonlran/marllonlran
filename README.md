@@ -2,75 +2,79 @@
 
 # Marllon Lorran
 
-### Desenvolvedor Backend em Formação
+### Backend Developer in Training
 
-**Estudante de Engenharia de Software no UNIPÊ · Foco em Python e Django**
+**Software Engineering Student at UNIPÊ · Focused on JavaScript, TypeScript, and Node.js**
 
-Desenvolvendo competências para transformar regras de negócio em aplicações bem estruturadas, APIs e soluções orientadas a dados.
+Building the skills to translate business requirements into well-structured APIs, maintainable services, and reliable data-driven applications.
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/APIs_REST-0F172A?style=for-the-badge" alt="APIs REST" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge" alt="REST APIs" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Conecte-se com Marllon no LinkedIn" /></a>
-<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Explore meus repositórios" /></a>
+<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Marllon on LinkedIn" /></a>
+<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 
 </div>
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou **Marllon Lorran**, **estudante de Engenharia de Software no UNIPÊ**, com foco em **desenvolvimento backend com Python e Django**.
+I am **Marllon Lorran**, a **Software Engineering student at UNIPÊ**, focusing my studies on **backend development with JavaScript, TypeScript, and Node.js**.
 
-Tenho interesse em compreender os fundamentos de uma aplicação: regras de negócio, comunicação entre serviços, organização de dados e qualidade de código. Busco construir uma base técnica sólida por meio do aprendizado contínuo e de projetos práticos.
+I am interested in the foundations of backend systems: business logic, communication between services, data modeling, and code quality. My goal is to build a solid technical foundation through continuous learning and practical projects.
 
-- **Foco atual:** fundamentos de Python e desenvolvimento web com Django.
-- **Próximos passos:** desenvolvimento de APIs REST com Django REST Framework e persistência de dados com SQL e PostgreSQL.
-- **Fluxo de desenvolvimento:** Git, GitHub e Linux.
-- **Objetivo:** evoluir como desenvolvedor backend e construir um portfólio que demonstre meu progresso técnico.
+- **Current focus:** JavaScript and TypeScript fundamentals, asynchronous programming, and backend development with Node.js.
+- **Next steps:** REST API development with Express, application architecture with NestJS, and data persistence with SQL, PostgreSQL, and Prisma.
+- **Development workflow:** Git, GitHub, and Linux, with Docker included in my learning roadmap.
+- **Goal:** grow as a backend developer and build a portfolio that demonstrates my technical progress.
 
-## Tecnologias em estudo
+## Technology Learning Roadmap
 
-As tecnologias a seguir representam meu **foco atual de estudo e desenvolvimento**, conforme avanço na construção das minhas competências técnicas.
+The technologies below represent my **current study focus and planned learning path**. They reflect the skills I am developing rather than a claim of professional experience.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,docker,git,github,linux&theme=dark" alt="Tecnologias e ferramentas em estudo: Python, Django, PostgreSQL, Docker, Git, GitHub e Linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,prisma,jest,docker,git,github,linux&theme=dark" alt="Current study focus and learning roadmap: JavaScript, TypeScript, Node.js, Express, NestJS, PostgreSQL, Prisma, Jest, Docker, Git, GitHub, and Linux" />
 </div>
 
 <br>
 
-| Área | Foco de estudo |
+| Area | Learning Focus |
 | :--- | :--- |
-| **Linguagem** | Python · fundamentos de programação · programação orientada a objetos |
-| **Desenvolvimento web** | Django · HTTP · Django REST Framework · APIs REST |
-| **Bancos de dados** | SQL · PostgreSQL · modelagem de dados · ORM do Django |
-| **Qualidade de software** | Testes · validação de dados · organização de código |
-| **Ferramentas e ambiente** | Git · GitHub · Linux · Docker |
+| **Languages** | JavaScript · TypeScript · programming fundamentals · type safety |
+| **Runtime and Asynchronous Programming** | Node.js · event loop · promises · async/await |
+| **Backend Frameworks and APIs** | Express · NestJS · HTTP · REST API design |
+| **Databases and Persistence** | SQL · PostgreSQL · data modeling · Prisma ORM · migrations |
+| **Security** | Input validation · authentication · authorization · secure password storage |
+| **Software Quality** | Jest · unit and integration testing · error handling · code organization |
+| **Tools and Environment** | Git · GitHub · Linux · npm · Docker |
 
-## Projetos em desenvolvimento
+## Portfolio Development
 
-Meu portfólio está em construção. Estou planejando projetos que apliquem **Python e Django** à resolução de problemas práticos, com ênfase em:
+My portfolio is under development. I am planning projects that apply **JavaScript, TypeScript, and Node.js** to practical problems, with an emphasis on:
 
-- APIs com regras de negócio bem definidas e validação de dados.
-- Bancos de dados com relacionamentos e consultas bem estruturados.
-- Código organizado, testes relevantes e documentação com instruções de execução de cada projeto.
+- REST APIs with clearly defined business rules, input validation, and consistent error responses.
+- Relational databases with well-defined schemas, relationships, and migrations.
+- Authentication and authorization to control access to application resources.
+- Maintainable code, meaningful tests, and documentation explaining how to configure and run each project.
 
-À medida que os projetos estiverem prontos para apresentação, adicionarei seus repositórios e os principais aprendizados nesta seção.
+As projects become ready to showcase, I will add their repositories and key technical takeaways here.
 
-## Contato
+## Let's Connect
 
-Tenho interesse em trocar conhecimentos sobre **Python, Django e desenvolvimento backend**, aprender com a comunidade e acompanhar projetos que resolvam problemas reais.
+I welcome opportunities to exchange knowledge about **JavaScript, TypeScript, Node.js, and backend development**, learn from the community, and follow projects that solve real-world problems.
 
-**[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/marllonlran/)** · **[Explore meus repositórios](https://github.com/marllonlran?tab=repositories)**
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/marllonlran/)** · **[Explore my repositories](https://github.com/marllonlran?tab=repositories)**
 
 ---
 
 <div align="center">
-  <sub>Fundamentos sólidos · Projetos práticos · Aprendizado contínuo</sub>
+  <sub>Solid Foundations · Practical Projects · Continuous Learning</sub>
 </div>
