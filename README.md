@@ -2,11 +2,11 @@
 
 # Marllon Lorran
 
-### Desenvolvedor Backend em Progresso
+### Aspiring Backend Developer
 
-**Estudante de Engenharia de Software na UNIPÊ · Focado em JavaScript, TypeScript e Node.js**
+**Software Engineering Student at UNIPÊ · Focused on JavaScript, TypeScript, and Node.js**
 
-Construindo as habilidades para traduzir os requisitos de negócios em APIs bem estruturadas, serviços sustentáveis e aplicativos confiáveis baseados em dados.
+Building the skills to translate business requirements into well-structured APIs, maintainable services, and reliable data-driven applications.
 
 <br>
 
@@ -18,57 +18,57 @@ Construindo as habilidades para traduzir os requisitos de negócios em APIs bem 
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-Conecte-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Conecte com Marllon no LinkedIn" /></a>
-<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white" alt="Explore meus repositórios " /></a>
+<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Marllon on LinkedIn" /></a>
+<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 
 </div>
 
 ---
 
-## Sobre Mim
+## About Me
 
-Eu sou **Marllon Lorran**, um **aluno de Engenharia de Software na UNIPÊ**, focando meus estudos no **desenvolvimento de backend com JavaScript, TypeScript e Node.js**.
+I'm **Marllon Lorran**, a **Software Engineering student at UNIPÊ**, focusing my studies on **backend development with JavaScript, TypeScript, and Node.js**.
 
-Estou interessado nos fundamentos dos sistemas backend: lógica de negócios, comunicação entre serviços, modelagem de dados e qualidade de código. Meu objetivo é construir uma base técnica sólida por meio de aprendizado contínuo e projetos práticos.
+I'm interested in the fundamentals of backend systems: business logic, service-to-service communication, data modeling, and code quality. My goal is to build a solid technical foundation through continuous learning and hands-on projects.
 
-- **Foco atual:** Fundamentos de JavaScript e TypeScript, programação assíncrona e desenvolvimento backend com Node.js.
+- **Current focus:** JavaScript and TypeScript fundamentals, asynchronous programming, and backend development with Node.js.
 
-- **Próximas etapas:** Desenvolvimento de API REST com Express, arquitetura de aplicativos com NestJS e persistência de dados com SQL, PostgreSQL e Prisma.
+- **Next steps:** REST API development with Express, application architecture with NestJS, and data persistence with SQL, PostgreSQL, and Prisma.
 
-- **Fluxo de trabalho de desenvolvimento:** Git, GitHub e Linux, com Docker incluído no meu roteiro de aprendizado.
+- **Development workflow:** Git, GitHub, and Linux, with Docker included in my learning roadmap.
 
-- **Objetivo:** crescer como desenvolvedor backend e construir um portfólio que demonstre meu progresso técnico.
+- **Goal:** Grow as a backend developer and build a portfolio that demonstrates my technical progress.
 
-## Roteiro de Aprendizagem Tecnológica
+## Technology Learning Roadmap
 
-As tecnologias abaixo representam meu **foco de estudo atual e caminho de aprendizado planejado**. Eles refletem as habilidades que estou desenvolvendo, em vez de uma reivindicação de experiência profissional.
+The technologies below represent my **current study focus and planned learning path**. They reflect the skills I am developing rather than a claim of professional experience.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,prisma,jest,docker,git,github,linux&theme=dark" alt="Current study focus and learning roadmap: JavaScript, TypeScript, Node.js, Express, NestJS, PostgreSQL, Prisma, Jest, Docker, Git, GitHub, and Linux" />
 </div>
 
-## Desenvolvimento de Portfólio
+## Portfolio Development
 
-Meu portfólio está em desenvolvimento. Estou planejando projetos que aplicam **JavaScript, TypeScript e Node.js** a problemas práticos, com ênfase em:
+My portfolio is a work in progress. I'm planning projects that apply **JavaScript, TypeScript, and Node.js** to practical problems, with an emphasis on:
 
-- APIs REST com regras de negócios claramente definidas, validação de entrada e respostas de erro consistentes.
+- REST APIs with clearly defined business rules, input validation, and consistent error responses.
 
-- Bancos de dados relacionais com esquemas, relacionamentos e migrações bem definidos.
+- Relational databases with well-defined schemas, relationships, and migrations.
 
-- Autenticação e autorização para controlar o acesso aos recursos do aplicativo.
+- Authentication and authorization to control access to application resources.
 
-- Código sustentável, testes significativos e documentação explicando como configurar e executar cada projeto.
+- Maintainable code, meaningful tests, and documentation explaining how to set up and run each project.
 
-À medida que os projetos estiverem prontos para serem apresentados, adicionarei seus repositórios e principais conclusões técnicas aqui.
+As projects become ready to showcase, I'll add their repositories and key technical takeaways here.
 
-## Vamos nos conectar
+## Let's Connect
 
-Congratulo-me com oportunidades de trocar conhecimento sobre **JavaScript, TypeScript, Node.js e desenvolvimento backend**, aprender com a comunidade e acompanhar projetos que resolvem o mundo realproblems.
+I welcome opportunities to exchange knowledge about **JavaScript, TypeScript, Node.js, and backend development**, learn from the community, and follow projects that solve real-world problems.
 
-**[Conecte Comigo](https://www.linkedin.com/in/marllonlran/)** · **[Explore meus repositórios ](https://github.com/marllonlran?tab=repositories)**
+**[Connect with Me](https://www.linkedin.com/in/marllonlran/)** · **[Explore My Repositories](https://github.com/marllonlran?tab=repositories)**
 
 ---
 
 <div align="center">
-  <sub>Fundações Sólidas · Projetos Práticos · Sempre Aprendendo</sub>
+  <sub>Solid Foundations · Hands-On Projects · Always Learning</sub>
 </div>
