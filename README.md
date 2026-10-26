@@ -2,73 +2,73 @@
 
 # Marllon Lorran
 
-### Backend Developer in Training
+### Desenvolvedor Backend em Formação
 
-**Software Engineering Student at UNIPÊ · Focus on JavaScript, TypeScript and Node.js**
+**Estudante de Engenharia de Software no UNIPÊ · Foco em JavaScript, TypeScript e Node.js**
 
-Building the skills needed to turn business requirements into well-structured APIs, maintainable services and reliable data-driven applications.
+Desenvolvendo as competências necessárias para transformar requisitos de negócio em APIs bem estruturadas, serviços de fácil manutenção e aplicações confiáveis orientadas a dados.
 
 <br>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/APIs_REST-0F172A?style=for-the-badge" alt="APIs REST" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Marllon on LinkedIn" /></a>
-<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Conecte-se com o Marllon no LinkedIn" /></a>
+<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Explore meus repositórios" /></a>
 
 </div>
 
 ---
 
-## About Me
+## Sobre Mim
 
-I'm **Marllon Lorran**, a **Software Engineering student at UNIPÊ**, focused on **backend development with JavaScript, TypeScript and Node.js**.
+Sou **Marllon Lorran**, estudante de **Engenharia de Software no UNIPÊ**, com foco em **desenvolvimento backend com JavaScript, TypeScript e Node.js**.
 
-I'm interested in the fundamentals of backend systems: business rules, communication between services, data modeling and code quality. My goal is to build a solid technical foundation through continuous learning and hands-on projects.
+Tenho interesse pelos fundamentos de sistemas backend: regras de negócio, comunicação entre serviços, modelagem de dados e qualidade de código. Meu objetivo é construir uma base técnica sólida por meio de aprendizado contínuo e projetos práticos.
 
-- **Current focus:** JavaScript and TypeScript fundamentals, asynchronous programming and backend development with Node.js.
+- **Foco atual:** fundamentos de JavaScript e TypeScript, programação assíncrona e desenvolvimento backend com Node.js.
 
-- **Next steps:** building REST APIs with Express, application architecture with NestJS and data persistence with SQL, PostgreSQL and Prisma.
+- **Próximos passos:** criar APIs REST com Express, estruturar aplicações com NestJS e trabalhar com persistência de dados usando SQL, PostgreSQL e Prisma.
 
-- **Workflow:** Git, GitHub and Linux, with Docker on my learning roadmap.
+- **Fluxo de trabalho:** Git, GitHub e Linux, com Docker no meu roteiro de estudos.
 
-- **Goal:** grow as a backend developer and build a portfolio that shows my technical progress.
+- **Objetivo:** evoluir como desenvolvedor backend e construir um portfólio que demonstre meu progresso técnico.
 
-## Tech Learning Roadmap
+## Roteiro de Estudos
 
-The technologies below represent my **current study focus and the learning path I plan to follow**. They reflect the skills I'm developing, not a claim of professional experience.
+As tecnologias abaixo representam meu **foco de estudo atual e a trilha de aprendizado que pretendo seguir**. Elas refletem as competências que estou desenvolvendo, e não uma declaração de experiência profissional.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,prisma,jest,docker,git,github,linux&theme=dark" alt="Current study focus and learning roadmap: JavaScript, TypeScript, Node.js, Express, NestJS, PostgreSQL, Prisma, Jest, Docker, Git, GitHub and Linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,prisma,jest,docker,git,github,linux&theme=dark" alt="Foco de estudo atual e roteiro de aprendizado: JavaScript, TypeScript, Node.js, Express, NestJS, PostgreSQL, Prisma, Jest, Docker, Git, GitHub e Linux" />
 </div>
 
-## Portfolio in Progress
+## Portfólio em Construção
 
-My portfolio is under construction. I'm planning projects that apply **JavaScript, TypeScript and Node.js** to practical problems, with an emphasis on:
+Meu portfólio está em construção. Estou planejando projetos que apliquem **JavaScript, TypeScript e Node.js** a problemas práticos, com ênfase em:
 
-- REST APIs with well-defined business rules, input validation and consistent error responses.
+- APIs REST com regras de negócio bem definidas, validação de entrada e respostas de erro consistentes.
 
-- Relational databases with clear schemas, relationships and migrations.
+- Bancos de dados relacionais com esquemas claros, relacionamentos e migrações.
 
-- Authentication and authorization to control access to application resources.
+- Autenticação e autorização para controlar o acesso aos recursos da aplicação.
 
-- Maintainable code, meaningful tests and documentation that explains how to set up and run each project.
+- Código de fácil manutenção, testes relevantes e documentação que explique como configurar e executar cada projeto.
 
-As projects become ready to show, I'll add their repositories here, along with the key technical lessons from each one.
+À medida que os projetos estiverem prontos para serem apresentados, vou adicionar os repositórios aqui, junto com os principais aprendizados técnicos de cada um.
 
-## Let's Connect
+## Vamos Conversar
 
-I'm interested in exchanging knowledge about **JavaScript, TypeScript, Node.js and backend development**, learning from the community and following projects that solve real-world problems.
+Tenho interesse em trocar conhecimento sobre **JavaScript, TypeScript, Node.js e desenvolvimento backend**, aprender com a comunidade e acompanhar projetos que resolvem problemas reais.
 
-**[Connect with me](https://www.linkedin.com/in/marllonlran/)** · **[Explore my repositories](https://github.com/marllonlran?tab=repositories)**
+**[Conecte-se comigo](https://www.linkedin.com/in/marllonlran/)** · **[Explore meus repositórios](https://github.com/marllonlran?tab=repositories)**
 
 ---
 
 <div align="center">
-  <sub>Solid Foundations · Hands-On Projects · Always Learning</sub>
+  <sub>Bases Sólidas · Projetos Práticos · Sempre Aprendendo</sub>
 </div>
