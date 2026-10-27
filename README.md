@@ -2,19 +2,20 @@
 
 # Marllon Lorran
 
-### Aspiring Backend Developer
+### Aspiring DevOps Engineer · Future DevSecOps
 
-**Software Engineering Student at UNIPÊ · Focused on JavaScript, TypeScript, and Node.js**
+**Software Engineering Student at UNIPÊ · Focused on Linux, Automation, and Cloud Infrastructure**
 
-Building the skills to turn business requirements into well-structured APIs, maintainable services, and reliable data-driven applications.
+Building the skills to automate, deploy, and secure software, from the first commit to production.
 
 <br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 <br><br>
 
@@ -27,48 +28,50 @@ Building the skills to turn business requirements into well-structured APIs, mai
 
 ## About Me
 
-I'm **Marllon Lorran**, a **Software Engineering student at UNIPÊ** focused on **backend development with JavaScript, TypeScript, and Node.js**.
+I'm **Marllon Lorran**, a **Software Engineering student at UNIPÊ** in my first period, working toward a career in **DevOps** and, later, **DevSecOps**.
 
-I'm interested in the fundamentals of backend systems: business logic, service-to-service communication, data modeling, and code quality. My goal is to build a solid technical foundation through continuous learning and hands-on projects.
+I'm interested in how software gets built, shipped, and kept running: automation, infrastructure, CI/CD pipelines, and security across the whole delivery process. My goal is to build a solid technical foundation through continuous learning and hands-on labs.
 
-- **Current focus:** JavaScript and TypeScript fundamentals, asynchronous programming, and backend development with Node.js.
+- **Current focus:** Linux and the terminal, Git and GitHub, networking fundamentals (IP, DNS, HTTP, ports), and scripting with Bash and Python.
 
-- **Next steps:** building REST APIs with Express, structuring applications with NestJS, and working with data persistence using SQL, PostgreSQL, and Prisma.
+- **Next steps:** containers with Docker, CI/CD with GitHub Actions, cloud fundamentals on AWS, and Infrastructure as Code with Terraform.
 
-- **Workflow:** Git, GitHub, and Linux, with Docker on my learning roadmap.
+- **Later:** container orchestration with Kubernetes, and observability with Prometheus and Grafana.
 
-- **Goal:** grow as a backend developer and build a portfolio that showcases my technical progress.
+- **DevSecOps goal:** bring security into every stage of the pipeline: OWASP Top 10, code and dependency scanning, container image scanning, and secrets management.
 
 ## Learning Roadmap
 
 The technologies below represent my **current focus and the learning path I plan to follow**. They reflect the skills I'm developing, not a claim of professional experience.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,prisma,jest,docker,git,github,linux&theme=dark" alt="Current focus and learning roadmap: JavaScript, TypeScript, Node.js, Express, NestJS, PostgreSQL, Prisma, Jest, Docker, Git, GitHub, and Linux" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,py,docker,githubactions,aws,terraform,kubernetes,prometheus,grafana&theme=dark" alt="Current focus and learning roadmap: Linux, Bash, Git, GitHub, Python, Docker, GitHub Actions, AWS, Terraform, Kubernetes, Prometheus, and Grafana" />
 </div>
 
 ## Portfolio in Progress
 
-My portfolio is a work in progress. I'm planning projects that apply **JavaScript, TypeScript, and Node.js** to practical problems, with an emphasis on:
+My portfolio is a work in progress. I'm planning hands-on projects and labs with an emphasis on:
 
-- REST APIs with well-defined business rules, input validation, and consistent error responses.
+- Bash and Python scripts that automate everyday Linux and server tasks.
 
-- Relational databases with clear schemas, relationships, and migrations.
+- Containerized applications with Docker and Docker Compose.
 
-- Authentication and authorization to control access to application resources.
+- CI/CD pipelines with GitHub Actions that build, test, and deploy automatically.
 
-- Maintainable code, meaningful tests, and documentation explaining how to set up and run each project.
+- Cloud infrastructure defined as code with Terraform.
+
+- Secure pipelines with automated security checks (SAST, dependency scanning, and image scanning).
 
 As projects become ready to showcase, I'll add the repositories here along with the key technical takeaways from each one.
 
 ## Let's Connect
 
-I'm interested in exchanging knowledge about **JavaScript, TypeScript, Node.js, and backend development**, learning from the community, and following projects that solve real-world problems.
+I'm interested in exchanging knowledge about **Linux, DevOps, cloud, and security**, learning from the community, and following projects that solve real-world problems.
 
 **[Connect with me](https://www.linkedin.com/in/marllonlran/)** · **[Explore my repositories](https://github.com/marllonlran?tab=repositories)**
 
 ---
 
 <div align="center">
-  <sub>Solid Foundations · Hands-On Projects · Always Learning</sub>
+  <sub>Automate · Ship · Secure · Always Learning</sub>
 </div>
