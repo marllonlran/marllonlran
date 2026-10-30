@@ -2,39 +2,39 @@
 
 # Marllon Lorran
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Aspiring+DevOps+Engineer;Future+DevSecOps;Automate+%C2%B7+Ship+%C2%B7+Secure" alt="Aspiring DevOps Engineer · Future DevSecOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Aspirante+a+Engenheiro+DevOps;Futuro+DevSecOps;Automatizar+%C2%B7+Entregar+%C2%B7+Proteger" alt="Aspirante a Engenheiro DevOps · Futuro DevSecOps" />
 
-Software Engineering student at **UNIPÊ** · Linux · Automation · Cloud
+Estudante de Engenharia de Software na **UNIPÊ** · Linux · Automação · Nuvem
 
 <a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
 
 </div>
 
 ---
 
-### About
+### Sobre mim
 
-I'm building a solid foundation for a career in **DevOps**, and later **DevSecOps**: automating, shipping, and securing software from the first commit to production.
+Estou construindo uma base sólida para uma carreira em **DevOps** e, mais adiante, em **DevSecOps**: automatizar, entregar e proteger software desde o primeiro commit até a produção.
 
-| 🎯 Now | 🚀 Next | 🔐 Goal |
+| 🎯 Agora | 🚀 Próximos passos | 🔐 Objetivo |
 | :-- | :-- | :-- |
-| Linux, Git, networking, Bash & Python | Docker, CI/CD, AWS & Terraform | Security in every stage of the pipeline |
+| Linux, Git, redes, Bash e Python | Docker, CI/CD, AWS e Terraform | Segurança em todas as etapas do pipeline |
 
-### Tech Stack & Roadmap
+### Tecnologias e roteiro de estudos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,py&theme=dark" alt="Current focus: Linux, Bash, Git, GitHub, Python" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,py&theme=dark" alt="Foco atual: Linux, Bash, Git, GitHub, Python" />
   <br>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,terraform,kubernetes,prometheus,grafana&theme=dark" alt="Learning roadmap: Docker, GitHub Actions, AWS, Terraform, Kubernetes, Prometheus, Grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,terraform,kubernetes,prometheus,grafana&theme=dark" alt="Roteiro de estudos: Docker, GitHub Actions, AWS, Terraform, Kubernetes, Prometheus, Grafana" />
   <br>
-  <sub>Top: current focus · Bottom: learning roadmap</sub>
+  <sub>Em cima: foco atual · Embaixo: roteiro de estudos</sub>
 </p>
 
-### Portfolio
+### Portfólio
 
-🚧 Work in progress. Hands-on labs coming soon: automation scripts, containerized apps, CI/CD pipelines, Infrastructure as Code, and secure pipelines.
+🚧 Em construção. Laboratórios práticos em breve: scripts de automação, aplicações em contêineres, pipelines de CI/CD, Infraestrutura como Código e pipelines seguros.
 
 ---
 
-<div align="center"><sub>Automate · Ship · Secure · Always learning</sub></div>
+<div align="center"><sub>Automatizar · Entregar · Proteger · Sempre aprendendo</sub></div>
